@@ -33,12 +33,12 @@ export default {}
 
 <style>
 .perfil {
-  height: 100vh;
+  height: 90vh;
   opacity: 0.2;
 }
 .title {
-  margin-top: 520px;
-  margin-left: 45px;
+  bottom: 90px;
+  margin-left: 25px;
   position: absolute;
   font-weight: bold;
   transition: 1s;
@@ -55,7 +55,7 @@ p {
 }
 .simbol {
   position: absolute;
-  right: 40px;
+  right: 25px;
   margin-top: 250px;
   z-index: 200;
   max-width: 90px;

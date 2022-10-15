@@ -28,7 +28,6 @@
     <v-app-bar
       :clipped-left="clipped"
       fixed
-      hide-on-scroll
       color="black"
       app
     >
