@@ -4,7 +4,7 @@
       <div class="liston d-none d-lg-flex d-xl-none"></div>
       <v-col class="simbol">
         <v-img class="mx-auto sym" src="/logo-png-1.png"></v-img>
-        <v-icon class="ml-5 mt-4 social">mdi-facebook</v-icon>
+        <v-icon class="ml-5 mt-4 social">mdi-youtube</v-icon>
         <v-icon class="ml-5 mt-4 social">mdi-instagram</v-icon>
         <v-icon class="ml-5 mt-4 social">mdi-whatsapp</v-icon>
       </v-col>

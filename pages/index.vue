@@ -1,6 +1,7 @@
 <template>
   <v-col>
     <CardPerfil />
+    <BannerHome />
   </v-col>
 </template>
 
